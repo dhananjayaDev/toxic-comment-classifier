@@ -123,7 +123,8 @@ toxic-comment-classifier/
 
 - Use [Streamlit Community Cloud](https://streamlit.io/cloud) for free hosting
 - Or deploy via [Hugging Face Spaces](https://huggingface.co/spaces)
-- Include a demo video or screenshots in your README for extra polish
+
+![Banner](https://github.com/dhananjayaDev/toxic-comment-classifier/blob/main/Screenshot%202025-08-07%20145109.png)
 
 ---
 
